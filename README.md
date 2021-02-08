@@ -47,6 +47,8 @@ The file with a number at the beginning stores the code snippet for each stage.
 * File name starting with a number is a test code for each step
 * `database.py` will show/delete table data
 * `matching.py` stores functions to interact with tables
+* `user.py` stores Classes
+* `categ_list.py` stores lists of options for user's details (to be stored in each Subject table)
 * Issues and improvements are listed in `issues.md`
 
 
