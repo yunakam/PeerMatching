@@ -41,12 +41,14 @@ The file with a number at the beginning stores the code snippet for each stage.
   
 1. `5_register.py` If user wants, they enter some conditions for possible peer learners. Matches will be displayed with their username and profile comment
 
-------------------------------------
 
-## Requirements
+## File description
+* Run `peermatching.py` to start
+* File name starting with a number is a test code for each step
+* `database.py` will show/delete table data
+* `matching.py` stores functions to interact with tables
+* Issues and improvements are listed in `issues.md`
 
-* No external modules required
-* Run `set_up.py` in order to create tables anew
 
 
 --- end of README.md ---
